@@ -1,0 +1,4 @@
+Steps to be followed to create page classes
+Create a Java class for every page in the application.
+In each class, declare all the web Elements as variable.
+Implement corresponding methods acting on the variables.
