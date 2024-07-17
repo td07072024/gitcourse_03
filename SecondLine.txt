@@ -1,0 +1,1 @@
+Most web applications are developed with Ajax and Javascript. When a page loads on a browser, the various web elements that someone wants to interact with may load at various time intervals.
